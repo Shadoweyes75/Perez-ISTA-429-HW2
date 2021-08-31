@@ -1,1 +1,3 @@
 # Perez-ISTA-429-HW2
+
+This is a mock repository made in order to practice propper project setup. README files are important since they are a way for the creator/s of the project to explain how users/colaborates can engaje with what they created. It's the perfect place for the general overview of your project to go, with most containing a description of the project, up-to-date contact information of the creator/s, as well as example of proper maintancence of the project for outsiders. README files are the first thing that people look at when seeing a project, so making sure the information is correct and pertient is very important.
